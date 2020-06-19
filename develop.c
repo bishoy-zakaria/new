@@ -6,6 +6,6 @@ int main ()
 var =20; //master editing
 >>>>>>> master
  int x=;
- int o=87;
+ int o=50;
  return0;
 }
