@@ -5,3 +5,6 @@ int main ()
 =======
 var =20; //master editing
 >>>>>>> master
+ int x=;
+ return0;
+}
